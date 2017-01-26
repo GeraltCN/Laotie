@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="9129822666039"
+    token="-1723072565508674364"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="312" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="43" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="5098117767642"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="8943686460311"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_232ad8253f712d8823adaebc6832e489763a202d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a7494d27708ac48616a2a85882e8e26dea82b106/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_1cc11138fb33f265e8417d3a0c9d457f94e6b769/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_7061b258c601b5ae399b6381186ca340f739775e/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_707acad0fe96ef425c4527ca3c41cf713ee58f64/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_83b3cf8254455a542e01fd07fe6ce028dffc08cc/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_01a2b4278ccd4f752bf0a9ee5c26cae2ad688181/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_b344dcc8f5e31bddc071aad88de5aea205e5b46e/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_a0783e4861d31accbdbfc1a9034a7019099eb6d7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_ae3bb7efbe197adc9511e525eaaf6ee9fa4a823c/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_300e09bfe255b4de2b78188c4d19bcc34e514251/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_c1216d488dfa84de4d16b0af5c04d07e6e59784d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_15bcd219c7b0bfe56c38b90db3404f29b40c3ab8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_1cbd00594b4f118afdc21f23e1b6ef356e631c5d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_07200ec0adf93713826bce6c8abb5b72dc974c3a/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="9129822666039"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
