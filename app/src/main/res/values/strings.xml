@@ -1,11 +1,14 @@
 <resources>
     <string name="app_name">货车老铁</string>
 
-    <!-- Strings related to login -->
+    <!-- Strings related to login&register -->
+    <string name="login_title">登陆界面</string>
+    <string name="regi_title">注册界面</string>
     <string name="prompt_email">用户名</string>
+    <string name="action_register">注册</string>
     <string name="prompt_password">密码</string>
     <string name="action_sign_in">登录</string>
-    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_in_short">注册</string>
     <string name="error_invalid_email">无效用户名</string>
     <string name="error_invalid_password">密码长度不足</string>
     <string name="error_incorrect_password">密码错误</string>
@@ -20,4 +23,5 @@
     <string name="setup">设置</string>
     <string name="notification">通知</string>
     <string name="quit">退出登录</string>
+    <string name="title_activity_regi">注册</string>
 </resources>

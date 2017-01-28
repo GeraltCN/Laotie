@@ -34,7 +34,7 @@
                 android:layout_height="100dp"
                 android:layout_marginTop="16dp"
                 android:layout_marginBottom="16dp"
-                android:text="Welcome"
+                android:text="@string/login_title"
                 android:textSize="30dp"
                 android:gravity="center"/>
 
@@ -77,6 +77,12 @@
                 android:layout_marginTop="16dp"
                 android:text="@string/action_sign_in"
                 android:textStyle="bold" />
+
+            <Button
+                android:text="@string/action_register"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/go_register_button" />
 
         </LinearLayout>
     </ScrollView>

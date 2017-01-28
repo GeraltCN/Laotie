@@ -12,6 +12,7 @@
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
     <uses-permission android:name="android.permission.READ_PROFILE" />
     <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -29,6 +30,9 @@
             </intent-filter>
         </activity>
         <activity android:name="com.tanya.tanya1.MainpageActivity" />
+        <activity
+            android:name="com.tanya.tanya1.RegiActivity"
+            android:label="@string/title_activity_regi" />
     </application>
 
 </manifest>
