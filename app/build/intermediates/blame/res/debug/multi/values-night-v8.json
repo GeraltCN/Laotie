@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
         "map": [
             {
@@ -139,6 +140,9 @@
     },
     {
         "outputFile": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+=======
+        "outputFile": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+>>>>>>> master
         "map": [
             {
                 "to": {
@@ -149,7 +153,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-night-v8/values-night-v8.xml",
+                    "file": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-night-v8/values-night-v8.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -168,7 +172,7 @@
                     "endOffset": 204
                 },
                 "from": {
-                    "file": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-night-v8/values-night-v8.xml",
+                    "file": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-night-v8/values-night-v8.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -187,7 +191,7 @@
                     "endOffset": 288
                 },
                 "from": {
-                    "file": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-night-v8/values-night-v8.xml",
+                    "file": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-night-v8/values-night-v8.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -206,7 +210,7 @@
                     "endOffset": 384
                 },
                 "from": {
-                    "file": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-night-v8/values-night-v8.xml",
+                    "file": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-night-v8/values-night-v8.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -225,7 +229,7 @@
                     "endOffset": 486
                 },
                 "from": {
-                    "file": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-night-v8/values-night-v8.xml",
+                    "file": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-night-v8/values-night-v8.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -244,7 +248,7 @@
                     "endOffset": 588
                 },
                 "from": {
-                    "file": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-night-v8/values-night-v8.xml",
+                    "file": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-night-v8/values-night-v8.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -263,7 +267,7 @@
                     "endOffset": 682
                 },
                 "from": {
-                    "file": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-night-v8/values-night-v8.xml",
+                    "file": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-night-v8/values-night-v8.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,

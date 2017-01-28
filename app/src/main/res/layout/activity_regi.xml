@@ -8,7 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.tanya.tanya1.LoginActivity">
+    tools:context="com.tanya.tanya1.RegiActivity">
 
     <!-- Login progress -->
     <ProgressBar
@@ -34,7 +34,7 @@
                 android:layout_height="100dp"
                 android:layout_marginTop="16dp"
                 android:layout_marginBottom="16dp"
-                android:text="@string/login_title"
+                android:text="@string/regi_title"
                 android:textSize="30dp"
                 android:gravity="center"/>
 
@@ -77,12 +77,6 @@
                 android:layout_marginTop="16dp"
                 android:text="@string/action_sign_in"
                 android:textStyle="bold" />
-
-            <Button
-                android:text="@string/action_register"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:id="@+id/go_register_button" />
 
         </LinearLayout>
     </ScrollView>

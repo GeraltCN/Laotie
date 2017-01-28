@@ -2,121 +2,139 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_c1216d488dfa84de4d16b0af5c04d07e6e59784d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
-        <dex dex="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_01a2b4278ccd4f752bf0a9ee5c26cae2ad688181.jar" />
+        <dex dex="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_c3f8ffd5a66a6156e8f5ed9281fa68bb3e88315c/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_b344dcc8f5e31bddc071aad88de5aea205e5b46e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_07200ec0adf93713826bce6c8abb5b72dc974c3a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_1cc11138fb33f265e8417d3a0c9d457f94e6b769.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_1cbd00594b4f118afdc21f23e1b6ef356e631c5d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
-        <dex dex="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_a0783e4861d31accbdbfc1a9034a7019099eb6d7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_7061b258c601b5ae399b6381186ca340f739775e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_15bcd219c7b0bfe56c38b90db3404f29b40c3ab8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_300e09bfe255b4de2b78188c4d19bcc34e514251.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_232ad8253f712d8823adaebc6832e489763a202d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
-        <dex dex="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_ae3bb7efbe197adc9511e525eaaf6ee9fa4a823c.jar" />
+        <dex dex="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_b4cea96ee1fb44d1a634b745295b793b20282dd0/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_83b3cf8254455a542e01fd07fe6ce028dffc08cc.jar" />
+        <dex dex="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_53ab916993e614e452f2e8cf6551f254b5cb6e85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_fe581de92b405a5e9ad02827efd12f8654fd6f1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_9003a3ec1988f6fc9fdcd2f53352853e8300c928/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2bb29fef5b373ec21e9b259d8f7c7b63639ec647">
+        <dex dex="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_888cd675502a3a0490e8a184b73f4fcf167b3ec1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_44df6ea03f98e9f19d08f3e570f559b3347bcc4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_98d1f8084d61d66fc9f6886a15c9520821a9d815/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_42fa2ae8adf68e3e6128d118565b954f1356aec2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ducky/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_82145ba7128d45562ab31c79ba77574046c2826f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_f3acc564f4553587dc6b7b457dd0259744ef756f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_b1f404df65b50598f1a6eaedbd127056a7d5658d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_db8557982f8219936e97a43c4f16b3b0f64b3924/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cedde52acfd876c8f2c5676d1674ee9995d1acf">
+        <dex dex="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_97aeed9e4faacec9cb888874dff148890e56bb62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_78129b5a9b8a2872a63a49e44ae6e504614b323f/classes.dex" />
     </item>
 
 </items>

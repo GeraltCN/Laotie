@@ -1,9 +1,10 @@
 [
     {
-        "merged": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
-        "source": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+        "merged": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
@@ -14,5 +15,9 @@
     {
         "merged": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+=======
+        "merged": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+>>>>>>> master
     }
 ]

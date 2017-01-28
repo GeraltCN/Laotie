@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
@@ -27,6 +28,9 @@
     },
     {
         "outputFile": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+=======
+        "outputFile": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+>>>>>>> master
         "map": [
             {
                 "to": {
@@ -38,7 +42,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "file": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
