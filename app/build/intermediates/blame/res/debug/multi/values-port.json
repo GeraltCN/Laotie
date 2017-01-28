@@ -1,6 +1,34 @@
 [
     {
+<<<<<<< HEAD
+        "outputFile": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+=======
         "outputFile": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+>>>>>>> master
         "map": [
             {
                 "to": {

@@ -1,6 +1,15 @@
 [
     {
+<<<<<<< HEAD
+        "merged": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/animator-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/animator-v21/design_appbar_state_list_animator.xml"
+=======
         "merged": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
         "source": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/animator-v21/design_appbar_state_list_animator.xml"
+>>>>>>> master
     }
 ]
