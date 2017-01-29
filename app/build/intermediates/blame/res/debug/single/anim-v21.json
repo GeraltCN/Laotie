@@ -1,23 +1,10 @@
 [
     {
-        "merged": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
-    },
-    {
-<<<<<<< HEAD
         "merged": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
         "source": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
         "source": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/QZQ/AndroidStudioProjects/Tanya1/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
-=======
-        "merged": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/ducky/Desktop/WorkSpace/Andriod/Laotie/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
->>>>>>> master
     }
 ]
