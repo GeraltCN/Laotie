@@ -2,121 +2,139 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_d2030a2f32f21eb5ecf100cce2a5c98acf290593.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_aca56c778d873bfcf514d49b66e0cd272fa60540.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_1cc11138fb33f265e8417d3a0c9d457f94e6b769.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_59631b6dc44b9401d1ee5a1118daaa9ca5a0b536.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_8a4f6d349ba15a1c66f20b8c733f63871b6fa201.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_618621964f289e7b5ff491aab7e6da39dbbabca4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
-        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_1e49a97edd44968db76affacb7491c3f86a0e9ca.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_475e46ceef52abdf5415677873958c4968d66466.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
-        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_69985b16897d81b686ab64444121627805daaf95.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
-        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_498ca1ab40b569c26c07420f36c2312d6264fc5f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_158b7244dd9cc340d4f860a63d2257b437d53d6d.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_350206d5333c5e42659dc1d5e24d9d4cd79bc665.jar" />
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_350206d5333c5e42659dc1d5e24d9d4cd79bc665/classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_aca56c778d873bfcf514d49b66e0cd272fa60540/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QZQ/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_1cc11138fb33f265e8417d3a0c9d457f94e6b769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_69985b16897d81b686ab64444121627805daaf95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57d2074b9f116994023531a6c49e39c89f7ea8bb">
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4424c662a6f5e4a4742a99a05ab8c87909045606/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_d2030a2f32f21eb5ecf100cce2a5c98acf290593/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_8a4f6d349ba15a1c66f20b8c733f63871b6fa201/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_59631b6dc44b9401d1ee5a1118daaa9ca5a0b536/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_618621964f289e7b5ff491aab7e6da39dbbabca4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_1e49a97edd44968db76affacb7491c3f86a0e9ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_135bc3c06f8acdb7c3d1afa4818270481e08d6fc.jar" />
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_135bc3c06f8acdb7c3d1afa4818270481e08d6fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_475e46ceef52abdf5415677873958c4968d66466/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_498ca1ab40b569c26c07420f36c2312d6264fc5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2531dfd86b53b7f9acaf96bfb4c83fa27e4b0ab8">
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_248a0e4e55ab51951da521448ed0630c7200e2ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_158b7244dd9cc340d4f860a63d2257b437d53d6d/classes.dex" />
     </item>
 
 </items>

@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!--button颜色-->
+    <color name="reveal_color">#FFFFFF</color>
+    <color name="bottom_color">#3086E4</color>
+    <color name="bottom_bg">#40BAF8</color>
 </resources>

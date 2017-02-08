@@ -1,4 +1,7 @@
-#Sun Jan 29 12:57:06 CST 2017
-base.0=/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Wed Feb 08 15:22:20 CST 2017
+base.0=/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4424c662a6f5e4a4742a99a05ab8c87909045606
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.1=/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_248a0e4e55ab51951da521448ed0630c7200e2ea/classes.dex
+base.1=/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_248a0e4e55ab51951da521448ed0630c7200e2ea
+file.0=/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4424c662a6f5e4a4742a99a05ab8c87909045606/classes.dex

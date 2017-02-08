@@ -12,14 +12,4 @@
         android:icon="@mipmap/ic_launcher"
         android:title="@string/notification"
         app:showAsAction="ifRoom" />
-
-    <item
-        android:id="@+id/setup"
-        android:title="@string/setup"
-        app:showAsAction="never" />
-
-    <item
-        android:id="@+id/quit"
-        android:title="@string/quit"
-        app:showAsAction="never" />
 </menu>

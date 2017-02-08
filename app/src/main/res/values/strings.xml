@@ -24,6 +24,15 @@
     <string name="goodsT">货物运输时间</string>
     <string name="toMyDriver">优先发送给我的司机</string>
     <string name="GoWithGoods">与货同行</string>
+
+    <string name="evaluation">评价</string>
+    <string name="complain">举报</string>
+    <string name="history">订单信息</string>
+    <string name="myDriver">我的司机</string>
+    <string name="myCoupon">我的抵价券</string>
+    <string name="exchange">积分兑换</string>
+
+
     <!-- Strings related to Menu -->
     <string name="setup">设置</string>
     <string name="notification">通知</string>
