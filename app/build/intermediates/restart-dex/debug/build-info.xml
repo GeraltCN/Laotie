@@ -2,32 +2,32 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
-    density="xxhdpi"
+    density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="7157879744346"
+    timestamp="8780337412371"
     token="-518812529190398642"
-    verifier="BINARY_MANIFEST_FILE_CHANGE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1586" />
+        duration="579" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="420" />
+        duration="338" />
     <task
         name="verifier"
-        duration="12" />
+        duration="43" />
 
     <artifact
         location="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="23274981970006"
+        timestamp="8780337412371"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/outputs/apk/app-debug.apk"

@@ -18,7 +18,7 @@ public class MainpageActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mainpage);
 
-//        设置toolbar
+//        1.设置顶部toolbar
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         toolbar.setLogo(R.mipmap.ic_launcher);
         toolbar.setTitle(R.string.app_name);
@@ -34,23 +34,17 @@ public class MainpageActivity extends AppCompatActivity {
                 } else if (menuItemId == R.id.notification) {
                     Toast.makeText(MainpageActivity.this , R.string.notification , Toast.LENGTH_SHORT).show();
 
-                } else if (menuItemId == R.id.setup) {
-                    Toast.makeText(MainpageActivity.this , R.string.setup , Toast.LENGTH_SHORT).show();
-
-                } else if (menuItemId == R.id.quit) {
-                    Toast.makeText(MainpageActivity.this , R.string.quit , Toast.LENGTH_SHORT).show();
-
                 }
                 return true;
             }
         });
 
-
+//        2.设置底部TabHost
         TabHost th=(TabHost)findViewById(R.id.tabhost);
         th.setup();            //初始化TabHost容器
 
         //在TabHost创建标签，然后设置：标题／图标／标签页布局
-        th.addTab(th.newTabSpec("tab1").setIndicator(null, ResourcesCompat.getDrawable(getResources(), R.mipmap.ic_launcher, null)).setContent(R.id.tab1));
+        th.addTab(th.newTabSpec("tab1").setIndicator(null,ResourcesCompat.getDrawable(getResources(), R.mipmap.ic_launcher, null)).setContent(R.id.tab1));
         th.addTab(th.newTabSpec("tab2").setIndicator(null,ResourcesCompat.getDrawable(getResources(), R.mipmap.ic_launcher, null)).setContent(R.id.tab2));
         th.addTab(th.newTabSpec("tab3").setIndicator(null,ResourcesCompat.getDrawable(getResources(), R.mipmap.ic_launcher, null)).setContent(R.id.tab3));
     }

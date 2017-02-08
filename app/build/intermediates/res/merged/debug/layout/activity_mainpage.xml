@@ -8,12 +8,6 @@
     tools:context="com.tanya.tanya1.MainpageActivity">
 
     <!--顶部菜单-->
-    <!--<android.support.v7.widget.Toolbar-->
-        <!--android:id="@+id/toolbar"-->
-        <!--android:layout_height="?attr/actionBarSize"-->
-        <!--android:layout_width="match_parent" >-->
-
-    <!--</android.support.v7.widget.Toolbar>-->
     <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/toolbar"
         android:layout_height="wrap_content"
@@ -61,10 +55,10 @@
                     <EditText
                         android:layout_width="match_parent"
                         android:layout_weight="6"
-                        android:layout_margin="5dp"
+                        android:layout_margin="16dp"
                         android:hint="备注"
-                        android:background="@android:drawable/alert_light_frame"
-                        android:elevation="0dip"
+                        android:background="#ffffff"
+                        android:elevation="8dip"
                         android:layout_height="0dp" />
 
                     <Switch
@@ -92,12 +86,14 @@
                         android:layout_height="0dp"/>
 
 
-                    <TextView
+                    <MyView.Mybutton
                         android:layout_width="match_parent"
                         android:layout_weight="2"
-                        android:layout_margin="16dp"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginRight="16dp"
+                        android:layout_marginTop="16dp"
                         android:text="立即预约"
-                        android:background="#FF7777"
+                        android:background="@color/colorPrimary"
                         android:elevation="8dip"
                         android:layout_height="0dp"
                         android:gravity="center"/>
@@ -125,42 +121,7 @@
                 </LinearLayout>
 
                 <!-- 第三个tab的布局 -->
-                <LinearLayout
-                    android:id="@+id/tab3"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="vertical"
-                    android:background="#DDDDDD">
-
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_weight="10"
-                        android:text="头像\n用户名\n积分"
-                        android:background="#ffffff"
-                        android:elevation="8dip"
-                        android:layout_height="0dp"
-                        android:gravity="center"/>
-
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_weight="7"
-                        android:layout_marginTop="30dp"
-                        android:text="订单等"
-                        android:background="#ffffff"
-                        android:elevation="8dip"
-                        android:layout_height="0dp"
-                        android:gravity="center"/>
-
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_weight="9"
-                        android:layout_marginTop="30dp"
-                        android:text="我的司机\n抵用券\n积分"
-                        android:background="#ffffff"
-                        android:elevation="8dip"
-                        android:layout_height="0dp"
-                        android:gravity="center"/>
-                </LinearLayout>
+                <include layout="@layout/mainpage_personal"/>
 
 
             </FrameLayout>
@@ -171,6 +132,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1">
+
             </TabWidget>
 
         </LinearLayout>
