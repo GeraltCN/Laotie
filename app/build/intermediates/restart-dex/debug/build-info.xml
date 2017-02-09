@@ -5,33 +5,50 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="8780337412371"
+    timestamp="62618500080487"
     token="-518812529190398642"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="579" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="338" />
+        duration="0" />
     <task
         name="verifier"
-        duration="43" />
+        duration="0" />
 
     <artifact
-        location="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="8780337412371"
+        timestamp="57312871130009"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="60164081642929"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="62618500080487"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
