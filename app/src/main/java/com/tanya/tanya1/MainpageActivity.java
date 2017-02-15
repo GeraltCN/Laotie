@@ -18,14 +18,12 @@ import android.widget.ImageView;
 import android.widget.TabHost;
 import android.widget.Toast;
 
-<<<<<<< HEAD
+
 import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.HashMap;
-=======
-import java.io.FileNotFoundException;
->>>>>>> e4b3282d963f24e6b6dac29508f8678999241972
+
 
 
 public class MainpageActivity extends AppCompatActivity {
@@ -69,7 +67,6 @@ public class MainpageActivity extends AppCompatActivity {
         th.setup();            //初始化TabHost容器
 
         //在TabHost创建标签，然后设置：标题／图标／标签页布局
-<<<<<<< HEAD
         th.addTab(th.newTabSpec("tab1").setIndicator(null,ResourcesCompat.getDrawable(getResources(), R.mipmap.ic_launcher, null)).setContent(R.id.tab1));
         th.addTab(th.newTabSpec("tab2").setIndicator(null,ResourcesCompat.getDrawable(getResources(), R.mipmap.ic_launcher, null)).setContent(R.id.tab2));
         th.addTab(th.newTabSpec("tab3").setIndicator(null,ResourcesCompat.getDrawable(getResources(), R.mipmap.ic_launcher, null)).setContent(R.id.tab3));
@@ -128,7 +125,7 @@ public class MainpageActivity extends AppCompatActivity {
 
 
 
-=======
+
         th.addTab(th.newTabSpec("tab1").setIndicator(null,ResourcesCompat.getDrawable(getResources(), R.drawable.order2, null)).setContent(R.id.tab1));
         th.addTab(th.newTabSpec("tab2").setIndicator(null,ResourcesCompat.getDrawable(getResources(), R.drawable.watch2, null)).setContent(R.id.tab2));
         th.addTab(th.newTabSpec("tab3").setIndicator(null,ResourcesCompat.getDrawable(getResources(), R.drawable.personal2 , null)).setContent(R.id.tab3));
@@ -142,7 +139,7 @@ public class MainpageActivity extends AppCompatActivity {
     protected void init(){
 
         image_photo = (ImageView)findViewById(R.id.photo);
->>>>>>> e4b3282d963f24e6b6dac29508f8678999241972
+
     }
 
     public void gallery(View view) {
@@ -174,11 +171,11 @@ public class MainpageActivity extends AppCompatActivity {
 
 
 
-<<<<<<< HEAD
 
 
 
-=======
+
+
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         if (requestCode == PHOTO_REQUEST_GALLERY) {
@@ -198,5 +195,5 @@ public class MainpageActivity extends AppCompatActivity {
         }
         super.onActivityResult(requestCode, resultCode, data);
     }
->>>>>>> e4b3282d963f24e6b6dac29508f8678999241972
+
 }
