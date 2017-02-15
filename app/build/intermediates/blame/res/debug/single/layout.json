@@ -28,16 +28,26 @@
         "source": "/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
         "source": "/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_close_item_material.xml"
+=======
+        "merged": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/src/main/res/layout/activity_login.xml"
+>>>>>>> e4b3282d963f24e6b6dac29508f8678999241972
     },
     {
         "merged": "/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
         "source": "/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_menu_item.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_singlechoice_material.xml"
+=======
+        "merged": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_lines_media.xml"
+>>>>>>> e4b3282d963f24e6b6dac29508f8678999241972
     },
     {
         "merged": "/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
@@ -64,6 +74,7 @@
         "source": "/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
         "source": "/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_lines_media.xml"
     },
@@ -74,6 +85,18 @@
     {
         "merged": "/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
         "source": "/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_item_layout.xml"
+=======
+        "merged": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_menu.xml"
+>>>>>>> e4b3282d963f24e6b6dac29508f8678999241972
     },
     {
         "merged": "/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",

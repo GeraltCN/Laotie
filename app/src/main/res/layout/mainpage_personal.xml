@@ -14,12 +14,13 @@
         android:layout_gravity="center"
         android:layout_marginTop="10dp"
         android:elevation="8dip"
-        android:background="#00ff00" />
+        android:src="@mipmap/ic_launcher"
+        android:onClick="gallery"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="hehehe"
+        android:text="蝴蝶"
         android:layout_gravity="center"/>
     <TextView
         android:layout_width="wrap_content"
@@ -31,67 +32,90 @@
     <!--评价\投诉\-->
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="3"
         android:orientation="horizontal"
-        android:background="#ffffff">
+        android:background="#ffffff"
+        android:layout_marginTop="10dp">
         <Button
-            android:layout_width="180dp"
-            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
-            android:drawableLeft="@mipmap/ic_launcher"
-            android:drawableRight="@mipmap/ic_launcher"
+            android:drawableRight="@drawable/evaluate1"
+            android:drawableTint="@color/colorPrimary"
+            android:paddingRight="20dp"
             android:background="#ffffff"
             android:text="@string/evaluation" />
         <Button
-            android:layout_width="180dp"
-            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
-            android:drawableLeft="@mipmap/ic_launcher"
-            android:drawableRight="@mipmap/ic_launcher"
+            android:drawableLeft="@drawable/camplain"
+            android:drawableTint="@color/colorPrimary"
+            android:paddingLeft="20dp"
             android:background="#ffffff"
             android:text="@string/complain"/>
     </LinearLayout>
     <!--订单信息-->
     <Button
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:drawableLeft="@mipmap/ic_launcher"
-        android:drawableRight="@mipmap/ic_launcher"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:drawableLeft="@drawable/history"
+        android:drawableRight="@drawable/back"
         android:background="#ffffff"
         android:text="@string/history"
-        android:layout_marginBottom="60dp"/>
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_marginBottom="40dp"/>
 
 
 
     <Button
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:drawableLeft="@mipmap/ic_launcher"
-        android:drawableRight="@mipmap/ic_launcher"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:drawableLeft="@drawable/drivers"
+        android:drawableRight="@drawable/back"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
         android:background="#ffffff"
         android:text="@string/myDriver"/>
     <Button
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:drawableLeft="@mipmap/ic_launcher"
-        android:drawableRight="@mipmap/ic_launcher"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:drawableLeft="@drawable/coupon"
+        android:drawableRight="@drawable/back"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
         android:background="#ffffff"
         android:text="@string/myCoupon"/>
     <Button
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:drawableLeft="@mipmap/ic_launcher"
-        android:drawableRight="@mipmap/ic_launcher"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:drawableLeft="@drawable/exchange"
+        android:drawableRight="@drawable/back"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
         android:background="#ffffff"
         android:text="@string/exchange"/>
     <Button
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_marginTop="35dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
         android:background="#ffffff"
         android:text="@string/setup"/>
     <Button
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="#F14164"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:background="@color/colorPrimaryDark"
         android:text="@string/quit"/>
 </LinearLayout>

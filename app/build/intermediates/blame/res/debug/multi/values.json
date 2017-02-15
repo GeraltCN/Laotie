@@ -416,11 +416,11 @@
                 "from": {
                     "file": "/Users/ducky/Desktop/WorkSpace/Laotie/app/src/main/res/values/colors.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 314,
+                        "startOffset": 480,
                         "endColumn": 43,
-                        "endOffset": 353
+                        "endOffset": 519
                     }
                 }
             },
@@ -435,11 +435,11 @@
                 "from": {
                     "file": "/Users/ducky/Desktop/WorkSpace/Laotie/app/src/main/res/values/colors.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 267,
+                        "startOffset": 433,
                         "endColumn": 46,
-                        "endOffset": 309
+                        "endOffset": 475
                     }
                 }
             },
@@ -606,11 +606,11 @@
                 "from": {
                     "file": "/Users/ducky/Desktop/WorkSpace/Laotie/app/src/main/res/values/colors.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 153,
+                        "startOffset": 319,
                         "endColumn": 45,
-                        "endOffset": 194
+                        "endOffset": 360
                     }
                 }
             },
@@ -625,11 +625,11 @@
                 "from": {
                     "file": "/Users/ducky/Desktop/WorkSpace/Laotie/app/src/main/res/values/colors.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 221,
                         "endColumn": 46,
-                        "endOffset": 97
+                        "endOffset": 263
                     }
                 }
             },
@@ -644,11 +644,11 @@
                 "from": {
                     "file": "/Users/ducky/Desktop/WorkSpace/Laotie/app/src/main/res/values/colors.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 102,
+                        "startOffset": 268,
                         "endColumn": 50,
-                        "endOffset": 148
+                        "endOffset": 314
                     }
                 }
             },
@@ -1461,11 +1461,11 @@
                 "from": {
                     "file": "/Users/ducky/Desktop/WorkSpace/Laotie/app/src/main/res/values/colors.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 220,
+                        "startOffset": 386,
                         "endColumn": 46,
-                        "endOffset": 262
+                        "endOffset": 428
                     }
                 }
             },

@@ -5,6 +5,7 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
+<<<<<<< HEAD
     timestamp="12972706660987"
     token="-4249393199517705350"
     verifier="COLD_SWAP_REQUESTED" >
@@ -12,33 +13,72 @@
     <task
         name="javac"
         duration="143" />
+=======
+    timestamp="62618500080487"
+    token="-518812529190398642"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+>>>>>>> e4b3282d963f24e6b6dac29508f8678999241972
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
+<<<<<<< HEAD
         duration="12" />
+=======
+        duration="0" />
+>>>>>>> e4b3282d963f24e6b6dac29508f8678999241972
     <task
         name="verifier"
         duration="0" />
 
     <artifact
+<<<<<<< HEAD
         location="/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
         type="DEX" />
 
     <build
         timestamp="12903089947781"
+=======
+        location="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="57312871130009"
+>>>>>>> e4b3282d963f24e6b6dac29508f8678999241972
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/ducky/Desktop/WorkSpace/Laotie/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
+<<<<<<< HEAD
         timestamp="12972706660987"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
             type="DEX" />
+=======
+        timestamp="60164081642929"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="62618500080487"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+>>>>>>> e4b3282d963f24e6b6dac29508f8678999241972
     </build>
 
 </instant-run>

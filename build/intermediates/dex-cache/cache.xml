@@ -43,8 +43,13 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
+<<<<<<< HEAD
         sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
         <dex dex="/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_1800c5dda6250dfb4de0c4abaffe49514b0e79ed/classes.dex" />
+=======
+        sha1="c5f27719d604ffc16530e8b905f942f1de2a1316">
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4424c662a6f5e4a4742a99a05ab8c87909045606/classes.dex" />
+>>>>>>> e4b3282d963f24e6b6dac29508f8678999241972
     </item>
     <item
         is-multidex="true"
@@ -223,8 +228,13 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
+<<<<<<< HEAD
         sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
         <dex dex="/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/hamcrest-integration-1.3_7890191008e01e5eb8435868aa921b4b52695d06/classes.dex" />
+=======
+        sha1="8a74d6f74dd935c8ad33faf2d15ea7d2efb71393">
+        <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_248a0e4e55ab51951da521448ed0630c7200e2ea/classes.dex" />
+>>>>>>> e4b3282d963f24e6b6dac29508f8678999241972
     </item>
     <item
         is-multidex="true"

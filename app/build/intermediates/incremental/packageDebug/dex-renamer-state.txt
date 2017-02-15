@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 #Mon Feb 13 00:36:46 CST 2017
 base.0=/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_488b1a59e058fa994d3430c1494135f39ff48188
+=======
+#Thu Feb 09 20:29:44 CST 2017
+base.0=/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4424c662a6f5e4a4742a99a05ab8c87909045606
+>>>>>>> e4b3282d963f24e6b6dac29508f8678999241972
 renamed.1=classes2.dex
 renamed.0=classes.dex
 file.1=/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1ec600ace0b9cde307a0d01c754bf72240037101/classes.dex
