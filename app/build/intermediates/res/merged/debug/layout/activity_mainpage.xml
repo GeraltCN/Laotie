@@ -54,49 +54,47 @@
                     <!--备注-->
                     <EditText
                         android:layout_width="match_parent"
-                        android:layout_weight="6"
-                        android:layout_margin="16dp"
+                        android:layout_height="0dp"
+                        android:layout_weight="3"
                         android:hint="备注"
-                        android:background="#ffffff"
-                        android:elevation="8dip"
-                        android:layout_height="0dp" />
-
-                    <Switch
-                        android:layout_width="match_parent"
-                        android:layout_weight="2"
-                        android:layout_marginLeft="16dp"
-                        android:layout_marginRight="16dp"
-                        android:layout_marginTop="16dp"
-                        android:text="@string/toMyDriver"
-                        android:gravity="center"
-                        android:background="#ffffff"
-                        android:elevation="8dip"
-                        android:layout_height="0dp"/>
-
-                    <Switch
-                        android:layout_width="match_parent"
-                        android:layout_weight="2"
-                        android:layout_marginLeft="16dp"
-                        android:layout_marginRight="16dp"
+                        android:padding="10dp"
                         android:layout_marginBottom="16dp"
-                        android:text="@string/GoWithGoods"
-                        android:gravity="center"
-                        android:background="#ffffff"
-                        android:elevation="8dip"
-                        android:layout_height="0dp"/>
+                        android:background="@drawable/background1"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="3"
+                        android:orientation="vertical"
+                        android:background="@drawable/background1"
+                        android:layout_marginBottom="16dp"
+                        >
+                        <Switch
+                            android:layout_width="match_parent"
+                            android:text="@string/toMyDriver"
+                            android:gravity="center"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            />
 
+                        <Switch
+                            android:layout_width="match_parent"
+                            android:text="@string/GoWithGoods"
+                            android:gravity="center"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"/>
 
+                    </LinearLayout>
                     <MyView.Mybutton
                         android:layout_width="match_parent"
-                        android:layout_weight="2"
-                        android:layout_marginLeft="16dp"
-                        android:layout_marginRight="16dp"
-                        android:layout_marginTop="16dp"
-                        android:text="立即预约"
-                        android:background="@color/colorPrimary"
-                        android:elevation="8dip"
                         android:layout_height="0dp"
-                        android:gravity="center"/>
+                        android:layout_weight="2"
+                        android:padding="10dp"
+                        android:background="@drawable/background1"
+                        android:backgroundTint="@color/colorPrimary"
+                        android:text="立即预约"
+                        android:gravity="center"
+                        android:drawableRight="@mipmap/go" />
+
                 </LinearLayout>
 
 

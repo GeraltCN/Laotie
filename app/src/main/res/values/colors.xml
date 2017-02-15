@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <!--<color name="colorPrimary">#FF7A22</color>-->
+    <!--<color name="colorPrimaryDark">#EE5F00</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+
+    <color name="colorPrimary">#12B7F5</color>
+    <color name="colorPrimaryDark">#00CCFF</color>
+    <color name="colorAccent">#BBBBBB</color>
 
     <!--button颜色-->
     <color name="reveal_color">#FFFFFF</color>

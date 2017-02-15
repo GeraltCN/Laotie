@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="57d2074b9f116994023531a6c49e39c89f7ea8bb">
+        sha1="c5f27719d604ffc16530e8b905f942f1de2a1316">
         <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4424c662a6f5e4a4742a99a05ab8c87909045606/classes.dex" />
     </item>
     <item
@@ -124,7 +124,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="2531dfd86b53b7f9acaf96bfb4c83fa27e4b0ab8">
+        sha1="8a74d6f74dd935c8ad33faf2d15ea7d2efb71393">
         <dex dex="/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_248a0e4e55ab51951da521448ed0630c7200e2ea/classes.dex" />
     </item>
     <item

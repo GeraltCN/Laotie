@@ -47,9 +47,9 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <color name="colorAccent">#FF4081</color>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#BBBBBB</color>
+    <color name="colorPrimary">#12B7F5</color>
+    <color name="colorPrimaryDark">#00CCFF</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
@@ -639,7 +639,7 @@
     </string>
     <string name="prompt_email">用户名</string>
     <string name="prompt_password">密码</string>
-    <string name="quit">退出登录</string>
+    <string name="quit">退出帐号</string>
     <string name="regi_title">注册界面</string>
     <string name="search_menu_title">Search</string>
     <string name="setup">设置</string>

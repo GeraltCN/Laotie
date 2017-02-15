@@ -36,6 +36,6 @@
     <!-- Strings related to Menu -->
     <string name="setup">设置</string>
     <string name="notification">通知</string>
-    <string name="quit">退出登录</string>
+    <string name="quit">退出帐号</string>
     <string name="title_activity_regi">注册</string>
 </resources>

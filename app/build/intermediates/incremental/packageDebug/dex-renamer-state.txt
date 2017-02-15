@@ -1,4 +1,4 @@
-#Wed Feb 08 15:22:20 CST 2017
+#Thu Feb 09 20:29:44 CST 2017
 base.0=/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4424c662a6f5e4a4742a99a05ab8c87909045606
 renamed.1=classes2.dex
 renamed.0=classes.dex
