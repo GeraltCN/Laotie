@@ -1,5 +1,9 @@
 [
     {
+<<<<<<< HEAD
+        "merged": "/Users/ducky/Desktop/WorkSpace/Laotie/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/ducky/Desktop/WorkSpace/Laotie/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+=======
         "merged": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/res/merged/debug/mipmap-hdpi/go.png",
         "source": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/src/main/res/mipmap-hdpi/go.png"
     },
@@ -14,5 +18,6 @@
     {
         "merged": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/Users/QZQ/Documents/Competition/服务外包竞赛/Laotie/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+>>>>>>> e4b3282d963f24e6b6dac29508f8678999241972
     }
 ]

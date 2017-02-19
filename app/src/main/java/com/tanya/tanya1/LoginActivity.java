@@ -31,7 +31,11 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import org.json.JSONException;
+import org.json.JSONObject;
+
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 import static android.Manifest.permission.READ_CONTACTS;
@@ -190,11 +194,12 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             // Show a progress spinner, and kick off a background task to
             // perform the user login attempt.
             showProgress(true);
+
+            mAuthTask = new UserLoginTask(email, password);
+            mAuthTask.execute((Void) null);
+
             Intent intent = new Intent(this, MainpageActivity.class);
-            //强行进入主界面
             startActivity(intent);
-//            mAuthTask = new UserLoginTask(email, password);
-//            mAuthTask.execute((Void) null);
 
         }
     }
@@ -310,6 +315,31 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         @Override
         protected Boolean doInBackground(Void... params) {
             // TODO: 重写登陆
+
+            final App myApp = ((App)getApplicationContext());
+
+
+            myApp.setCallback(new App.Callback() {
+                @Override
+                public void example(String string) {
+                    try {
+                        JSONObject js = new JSONObject(string);
+                        myApp.setToken(js.getString("token"));
+                        System.out.println(myApp.getToken());
+                    } catch (JSONException e) {
+                        e.printStackTrace();
+                    }
+                }
+            });
+
+            String tag = "Login";
+            String url = "http://192.168.1.104:8080/user_login?";
+
+            HashMap<String, String> map = new HashMap<>();
+            map.put("duty","USER");
+            map.put("username","ljjjx1997");
+            map.put("password","123456");
+            myApp.volleyPost(url, tag, map);
 
 
             return true;

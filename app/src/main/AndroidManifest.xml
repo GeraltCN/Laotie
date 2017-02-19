@@ -12,6 +12,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
+        android:name=".App"
         android:theme="@style/AppTheme">
         <activity
             android:name=".LoginActivity"
@@ -27,5 +28,6 @@
             android:name=".RegiActivity"
             android:label="@string/title_activity_regi"></activity>
     </application>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
     <uses-permission android:name="android.permission.INTERNET"/>
 </manifest>

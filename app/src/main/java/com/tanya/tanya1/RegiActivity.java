@@ -32,6 +32,13 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.android.volley.Request;
+import com.android.volley.RequestQueue;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.StringRequest;
+import com.android.volley.toolbox.Volley;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
@@ -41,6 +48,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.net.UnknownHostException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 import static android.Manifest.permission.READ_CONTACTS;
@@ -323,36 +331,26 @@ public class RegiActivity extends AppCompatActivity implements LoaderCallbacks<C
         // 后台运行，用于进行耗时工作，不在UI线程中，需要重写所有
         @Override
         protected Boolean doInBackground(Void... params) {
-            String taskResult = null;
-
-            try {
-                Socket sockobj = new Socket(myHost, myPort);
-                System.out.println("已经连接至: " + sockobj.getRemoteSocketAddress());
-
-                OutputStream os = sockobj.getOutputStream();
-                PrintWriter pw = new PrintWriter(os);
-                pw.write("father");
-                pw.flush();
-                sockobj.shutdownOutput();
-                System.out.println("已经成功发送信息");
-
-                InputStream is = sockobj.getInputStream();
-                BufferedReader br = new BufferedReader(new InputStreamReader(is));
-                taskResult = br.readLine();
-                System.out.println(taskResult);
+            String taskResult = "default";
 
 
-                br.close();
-                is.close();
-                os.close();
-                pw.close();
-                sockobj.close();
+            ((App)getApplicationContext()).setCallback(new App.Callback() {
+                @Override
+                public void example(String string) {
+                    System.out.println("这里是Callback");
+                    System.out.println(string);
+                }
+            });
 
-            } catch (UnknownHostException e) {
-                e.printStackTrace();
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
+            String tag = "Login";
+            String url = "http://192.168.1.100:8080/user_login?";
+
+            HashMap<String, String> map = new HashMap<String, String>();
+            map.put("duty", "USER");
+            map.put("username","ljjjx1997");
+            map.put("password","123456");
+            ((App)getApplicationContext()).volleyPost(url, tag, map);
+
 
             return taskResult == "success";
         }
@@ -370,7 +368,7 @@ public class RegiActivity extends AppCompatActivity implements LoaderCallbacks<C
                 finish();
             } else {
                 // TODO 密码错误了怎么办
-                System.out.println("验证失败！");
+                System.out.println("结束。");
                 mPasswordView.setError(getString(R.string.error_incorrect_password));
                 mPasswordView.requestFocus();
             }
